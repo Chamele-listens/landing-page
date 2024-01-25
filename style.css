@@ -1,3 +1,7 @@
+body{
+    margin: 0;
+}
+
 ul, a {
     text-decoration: none;
     list-style-type: none;
