@@ -94,8 +94,9 @@ p {
 
 .bio-pic{
     width: auto;
-    max-height: 200px;
+    max-height: 100px;
     border-radius: 10px;
+    object-fit: cover;
 }
 
 .bio-list{
