@@ -83,6 +83,7 @@ p {
     flex-direction: column;
     justify-content: center;
     align-items: center;
+    
 }
 
 .bio{
@@ -102,6 +103,7 @@ p {
 .bio-list{
     display: flex;
     flex-direction: row;
+    padding: 50px;
 }
 
 button{
