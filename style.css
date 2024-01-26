@@ -85,9 +85,22 @@ p {
     align-items: center;
 }
 
-.profile-picture{
+.bio{
     display: flex;
+    flex-direction: column;
     justify-content: center;
+    align-items: center;
+}
+
+.bio-pic{
+    width: auto;
+    max-height: 200px;
+    border-radius: 10px;
+}
+
+.bio-list{
+    display: flex;
+    flex-direction: row;
 }
 
 button{
