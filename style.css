@@ -78,6 +78,18 @@ p {
     height: 300px;
 }
 
+.profile{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.profile-picture{
+    display: flex;
+    justify-content: center;
+}
+
 button{
     background-color: #3882f6;
     padding: 10px 30px;
