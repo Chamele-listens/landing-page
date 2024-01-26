@@ -106,6 +106,14 @@ p {
     padding: 50px;
 }
 
+.quote{
+    display: flex;
+    background-color: #e5e7eb;
+    justify-content: center;
+    align-content: center;
+
+}
+
 button{
     background-color: #3882f6;
     padding: 10px 30px;
