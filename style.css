@@ -130,6 +130,16 @@ p {
     font-style: italic;
 }
 
+.call-to-action{
+    display: flex;
+    background-color: #3882f6;
+    justify-content: center;
+    align-items: center;
+    margin: 100px;
+    border-radius: 10px;
+    padding: 20px;
+}
+
 button{
     background-color: #3882f6;
     padding: 10px 30px;
