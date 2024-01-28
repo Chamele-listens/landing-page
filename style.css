@@ -83,7 +83,6 @@ p {
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    
 }
 
 .bio{
@@ -91,6 +90,7 @@ p {
     flex-direction: column;
     justify-content: center;
     align-items: center;
+    flex-wrap: wrap;
 }
 
 .bio-pic{
@@ -103,7 +103,7 @@ p {
 .bio-list{
     display: flex;
     flex-direction: row;
-    padding: 50px;
+    padding: 100px;
 }
 
 .quote{
